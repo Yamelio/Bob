@@ -1,0 +1,9 @@
+{
+  "groupes" :
+    [
+      ["Joueur 1", "Joueur 5", "Joueur 9"],
+      ["Joueur 2", "Joueur 6", "Joueur 10"],
+      ["Joueur 3", "Joueur 7", "Joueur 11"],
+      ["Joueur 4", "Joueur 8", "Joueur 12"]
+    ]
+}
